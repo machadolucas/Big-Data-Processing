@@ -1,0 +1,7 @@
+*.zip
+*.csv
+*.json
+*.xml
+.idea
+.DS_Store
+*/.DS_Store
